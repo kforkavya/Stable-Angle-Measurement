@@ -1,6 +1,6 @@
 # Stable Angle Measurement
 
-This is my self-project developed in March 2023, addressing critical challenges in angle measurements faced due to background turbulence and offset accumulation in gyroscopic sensors. The project focuses on achieving precise and reliable angle calculations even in the presence of these disturbances, ensuring accurate data for applications requiring stable orientation measurements.
+This is my self-project developed in March 2023, addressing critical challenges in angle measurements faced due to background turbulence and offset accumulation in gyroscopic sensors. The project focuses on achieving precise and reliable angle calculations even in the presence of these disturbances, using ARDUINO UNO and MPU-6050 (Gyroscope-cum-Accelerometer) ensuring accurate data for applications requiring stable orientation measurements.
 
 ## Challenges: Background Turbulence and Offset Accumulation
 
